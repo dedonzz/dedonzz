@@ -3,4 +3,4 @@
 -📓 Self-Taught Front-End Developer
 
 ## Tech I used
-- ![JS](https://img.icons8.com/color/344/javascript--v1.png)
+![JS](https://img.icons8.com/color/96/javascript--v1.png)
