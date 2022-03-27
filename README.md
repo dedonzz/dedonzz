@@ -1,6 +1,6 @@
 # 🔥 Don Wong's Github
--🏫 MSc Statistics Student at National Taiwan University</br>
--📓 Self-Taught Front-End Developer
+- 🏫 MSc Statistics Student at National Taiwan University</br>
+- 📓 Self-Taught Front-End Developer
 
 ## Tech I used
 ![JS](https://img.icons8.com/color/96/javascript--v1.png)
