@@ -4,3 +4,5 @@
 
 ## Tech I used
 ![JS](https://img.icons8.com/color/96/javascript--v1.png)
+![Python](https://img.icons8.com/color/96/python--v1.png)
+![SQL](https://img.icons8.com/color/96/sql.png)
