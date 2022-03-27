@@ -15,3 +15,4 @@
 ![Git](https://img.icons8.com/color/96/git.png)
 
 ## Contact Me
+- [Linkedin](https://www.linkedin.com/in/doncjwong/)
