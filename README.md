@@ -14,5 +14,9 @@
 - Version Control </br>
 ![Git](https://img.icons8.com/color/96/git.png)
 
+## Past Work
+- Personal Resume：https://donwz.netlify.app/
+- Computer Center Summer Program：http://course.cc.ntu.edu.tw/201707/index.html
+
 ## Contact Me
 - [Linkedin](https://www.linkedin.com/in/doncjwong/)
