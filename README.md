@@ -17,6 +17,7 @@
 ## Past Work
 - Personal Resume：https://donwz.netlify.app/
 - Computer Center Summer Program：http://course.cc.ntu.edu.tw/201707/index.html
+- Gomore Inc Official Web：https://www.gomore.net/
 
 ## Contact Me
 - [Linkedin](https://www.linkedin.com/in/doncjwong/)
