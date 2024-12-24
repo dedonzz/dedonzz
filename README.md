@@ -1,5 +1,5 @@
 # 🔥 Don Wong's Github
-- 🏫 MSc Statistics Student at National Taiwan University</br>
+- 🏫 MSc in Statistics and BSc in Forestry from National Taiwan University</br>
 - 📓 Self-Taught Front-End Developer
 
 ## 💦 Tools I used
