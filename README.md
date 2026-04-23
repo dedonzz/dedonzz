@@ -1,9 +1,10 @@
 # 🔥 Don Wong's Github
 - 🏫 MSc in Statistics and BSc in Forestry from National Taiwan University</br>
-- 📓 Self-Taught Front-End Developer
+- 📓 Self-Taught Developer</br>
+- 💻 Engineer and Consultant</br>
 
 ## 💦 Tools I used
-- Front-End </br>
+- Software Developing </br>
 ![HTML](https://img.icons8.com/color/96/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/96/css3.png)
 ![JS](https://img.icons8.com/color/96/javascript--v1.png)
