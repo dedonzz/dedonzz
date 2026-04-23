@@ -7,16 +7,17 @@
 ## 💦 Tools I used
 - Software Developing </br>
 ![JS](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
-![Vue](https://icons8.com/icon/dzfo6UeXW9h7/vuejs)
+![Vue](https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png&color=000000)
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000)
 - Data Engineering and Analytics </br>
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
-![MySQL](https://icons8.com/icon/QeIg9siFKGgp/mysql)
+![MySQL](https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000)
 ![Oracle](https://img.icons8.com/?size=100&id=39913&format=png&color=000000)
-![R](https://icons8.com/icon/CLvQeiwFpit4/r-project)
-- Version Control </br>
-![Git](https://img.icons8.com/color/96/git.png)
+![R](https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000)
+- Version Control and Project Management</br>
+![Git](https://img.icons8.com/?size=100&id=6Qr2kBSBemvq&format=png&color=000000)
+![Jira](https://img.icons8.com/?size=100&id=uwtDNiMJtU7m&format=png&color=000000)
 
 ## Past Work
 - Personal Resume：https://donwz.netlify.app/
